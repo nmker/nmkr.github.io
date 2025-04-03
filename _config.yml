@@ -103,4 +103,4 @@ theme: landscape
 deploy:
   type: 'git'
   repo:  git@github.com:nmker/nmker.github.io.git
-  branck: master
+  branck: main
