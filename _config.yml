@@ -102,5 +102,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo:  git@github.com:nmker/nmkr.github.io.git
+  repo:  git@github.com:nmker/nmker.github.io.git
   branck: master
